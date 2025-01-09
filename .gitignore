@@ -1,0 +1,22 @@
+# 모델 관련 파일
+models/
+*.pt
+*.bin
+*.model
+*.pth
+*.ckpt
+*.weights
+
+# 데이터 파일
+data/
+*.mp4
+*.png
+*.jpg
+*.jpeg
+
+# 캐시 파일
+__pycache__/
+*.pyc
+
+# test2 폴더 안의 모든 파일 무시
+test2/
